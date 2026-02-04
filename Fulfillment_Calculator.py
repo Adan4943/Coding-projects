@@ -1,7 +1,4 @@
-# Adan Landeros
-# Lab Section 4
-# Final Project
-# 11/19/25
+
 
 # Program Description
 # This program will allow the user to enter products to be shipped, including quantity, weight, and cost. Then it will calculate the subtotal, tax, shipping and handling, and the total due. 
@@ -176,6 +173,7 @@ while run == True:
 # user exit message
 print()
 print('Have a great day!')
+
 
 
 
